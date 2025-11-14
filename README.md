@@ -2,7 +2,7 @@
 
 A machine learning project to predict the price of used cars based on structured datasets. Multiple models were trained and compared, with a final blended model selected for submission.
 
-This is a machine learning project that I had to do in the context of a "Business Analytics and Data Science" course. The goal of this project was to train 3 different models on a train.csv dataset, tune one of them and submit the final model on a private Kaggle competition (class competition) to see who's model would perform the best on unseen data. 
+This is a machine learning project that I had to do in the context of a "Business Analytics and Data Science" course. The goal of this project was to train 3 different models on a train.csv dataset, tune one of them and submit the final model on a private Kaggle competition (class competition) to see who's model would perform the best on unseen data (test.csv, on which the target - price - is not specified). 
 
 The fine-tuned Random Forest Regressor was retained for the Kaggle submission.
 
@@ -44,6 +44,7 @@ pip install -r requirements.txt
 2. Run the submission.ipynb notebook
 
 3. Results are stored in the submission.csv file
+
 
 
 
