@@ -11,7 +11,7 @@ A machine learning project to predict the price of used cars based on structured
 ├── models/                # Trained models (.joblib files) \
 ├── src/                   # Python scripts (e.g., processing.py) \
 ├── requirements.txt       # List of required Python packages \
-├── README.md              # Project overview \
+├── README.md              # Project overview 
 
 ---
 
@@ -40,5 +40,6 @@ pip install -r requirements.txt
 2. Run the submission.ipynb notebook
 
 3. Results are stored in the submission.csv file
+
 
 
