@@ -60,6 +60,9 @@ The XGBoost Regressor returned:
 - RMSE = $2024.35
 - R^2 Score = 0.951
 
+I tried model blending averaging the Random Forest and the XGBoost predictions, but it worsen the RMSE and R^2 scores. 
+
+
 
 
 
