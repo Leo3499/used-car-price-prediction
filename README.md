@@ -45,6 +45,21 @@ pip install -r requirements.txt
 
 3. Results are stored in the submission.csv file
 
+## ✔ Conclusion
+
+The LR returned:
+- RMSE = $3621.28
+- R^2 Score = 0.844
+
+The Random Forest Regressor returned:
+- RMSE = $1995.52
+- R^2 Score = 0.953
+
+The XGBoost Regressor returned:
+- RMSE = $2024.35
+- R^2 Score = 0.951
+
+
 
 
 
