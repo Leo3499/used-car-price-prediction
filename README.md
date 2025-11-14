@@ -44,6 +44,7 @@ pip install -r requirements.txt
 2. Run the submission.ipynb notebook
 
 3. Results are stored in the submission.csv file
+```
 
 ## ✔ Conclusion
 
@@ -58,6 +59,7 @@ The Random Forest Regressor returned:
 The XGBoost Regressor returned:
 - RMSE = $2024.35
 - R^2 Score = 0.951
+
 
 
 
