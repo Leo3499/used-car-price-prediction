@@ -7,9 +7,9 @@ A machine learning project to predict the price of used cars based on structured
 ## 📂 Project Structure
 
 ├── data/                  # Cleaned and raw data (ignored from GitHub) \
-├── notebooks/             # Jupyter notebooks for each step \
-├── models/                # Trained models (.joblib files) \
-├── src/                   # Python scripts (e.g., processing.py) \
+├── Notebooks/             # Jupyter notebooks for each step \
+├── Results/                # Trained models (.joblib files) \
+├── Scripts/                   # Python scripts (e.g., processing.py) \
 ├── requirements.txt       # List of required Python packages \
 ├── README.md              # Project overview 
 
@@ -40,6 +40,7 @@ pip install -r requirements.txt
 2. Run the submission.ipynb notebook
 
 3. Results are stored in the submission.csv file
+
 
 
 
