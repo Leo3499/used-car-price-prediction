@@ -36,3 +36,8 @@ A machine learning project to predict the price of used cars based on structured
 1. Install dependencies:
 ```bash
 pip install -r requirements.txt
+
+2. Run the submission.ipynb notebook
+
+3. Results are stored in the submission.csv file
+
