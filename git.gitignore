@@ -1,0 +1,11 @@
+# Ignore data files and model outputs
+*.csv
+*.joblib
+
+# Ignore notebook checkpoints and Python cache
+.ipynb_checkpoints/
+__pycache__/
+
+# Optional: Ignore virtual envs
+.env/
+venv/
